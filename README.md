@@ -1,0 +1,2 @@
+# SIH-AI-Based-Real-time-Energy-Audit-Peak-Load-Forecasting-and-Automated-Waste-
+ High-volume commercial buildings and micro-grids lose up to 20% of generated power due to poor demand prediction and unmonitored thermal or transmission waste. Develop a software-only cloud infrastructure that ingests live energy data, forecasts consumption surges, and triggers automated switching to prevent energy waste.
