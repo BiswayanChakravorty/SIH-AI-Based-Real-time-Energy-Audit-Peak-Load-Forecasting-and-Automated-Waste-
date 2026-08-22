@@ -14,3 +14,4 @@ This application has been completely rebuilt to use **Live Public Web Data APIs*
 3. Activate the environment: `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run the application: `streamlit run src/app.py`
+https://liveaudit-udeb4gvu.manus.space/  FUNCTIONAL WEBSITE
